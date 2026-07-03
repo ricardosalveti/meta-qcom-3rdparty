@@ -20,7 +20,7 @@ RRECOMMENDS:${PN}-firmware = " \
 "
 
 RDEPENDS:${PN}-hexagon-dsp-binaries = " \
-    hexagon-dsp-binaries-qcom-arduino-monza-adsp \
-    hexagon-dsp-binaries-qcom-arduino-monza-cdsp \
-    hexagon-dsp-binaries-qcom-arduino-monza-gdsp \
+    hexagon-dsp-binaries-arduino-monza-adsp \
+    hexagon-dsp-binaries-arduino-monza-cdsp \
+    hexagon-dsp-binaries-arduino-monza-gdsp \
 "
