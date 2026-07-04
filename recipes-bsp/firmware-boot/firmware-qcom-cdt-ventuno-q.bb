@@ -5,6 +5,6 @@ SRC_URI = " \
     "
 SRC_URI[cdt-qcs8275-monza.sha256sum] = "8484beb2ac1ff74a129c586f6d5331536765975dbabfb0600509f11010ec1c41"
 
-QCOM_CDT_SUBDIR = "qcs8275-arduino-monza"
+QCOM_CDT_SUBDIR = "8300"
 
 include recipes-bsp/firmware-boot/firmware-qcom-cdt-common.inc
